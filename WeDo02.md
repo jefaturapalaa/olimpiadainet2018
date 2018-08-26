@@ -18,5 +18,7 @@ En Tecnología se entiende por operador cualquier objeto (o conjunto de objetos)
 |Producir calor|resistencia eléctrica, vela, antorcha|
 |Conseguir ganancia mecánica|palanca, manivela...|
 
+[Operadores Tecnologicos](https://github.com/jefaturapalaa/olimpiadainet2018/blob/master/3_-_Operadores_Tecnologicos.pdf)
+
 [Prox](WeDo03)
 
