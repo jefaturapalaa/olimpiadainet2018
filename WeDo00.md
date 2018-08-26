@@ -1,6 +1,6 @@
-#Empezando a programar con WeDo 2.0
+# Empezando a programar con WeDo 2.0
 
-##Sumario: 
+## Sumario 
 
 Se presentarán una serie de actividades simples para introducir conceptos básicos de robótica educativa, basados en el diseño, la programación y la experimentación.
 
