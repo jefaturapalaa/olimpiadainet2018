@@ -42,4 +42,4 @@ Puede proponerse algunos desafíos adicionales de programación para comenzar a 
 
 5. Se recomienda registrarlo y utilizar este material para la introducción de otra actividad.
 
-[Prox](WeDo2.md)
+[Prox](WeDo02.md)
