@@ -40,4 +40,4 @@ Proponga a los estudiantes realizar un programa que muestre por pantalla los nom
 
 Una vez finalizada la actividad se desarman los montajes y ordenan los kits.
 
-[Prox](Wedo04)
+[Prox](WeDo04.md)
