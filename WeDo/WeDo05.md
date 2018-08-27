@@ -28,6 +28,6 @@
 ## Continuar
 * Se propone a los alumnos agregar una mejoría y que la frecuencia de la construcción aumente un 50%.
 
-[Hoja para el Alumno](https://github.com/jefaturapalaa/olimpiadainet2018/blob/master/Hoja_del_alumno_-_Vuelta_al_mundo.pdf)
+[Hoja para el Alumno](https://github.com/jefaturapalaa/olimpiadainet2018/blob/master/WeDo/Hoja_del_alumno_-_Vuelta_al_mundo.pdf)
 
-[Prox](WeDo06)
+[Prox](WeDo06.md)
