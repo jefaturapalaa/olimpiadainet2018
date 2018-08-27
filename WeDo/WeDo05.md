@@ -19,7 +19,7 @@
 * Analizar, utilizar y producir textos instructivos para comunicar los insumos necesarios y sus cantidades, los pasos a seguir y los medios técnicos empleados en cada operación del proceso.
 # Desarrollo
 ## Conectar
-* Se propone la lectura [¿Qué tal un paseo en una vuelta al mundo?](https://github.com/jefaturapalaa/olimpiadainet2018/blob/master/Vuelta_al_mundo_-_Lectura_complementaria.pdf)
+* Se propone la lectura [¿Qué tal un paseo en una vuelta al mundo?](https://github.com/jefaturapalaa/olimpiadainet2018/blob/master/WeDo/Vuelta_al_mundo_-_Lectura_complementaria.pdf)
 ## Construir
 * Se propone la construcción de “Vuelta al mundo”. La programación de la vuelta al mundo se basa en el accionamiento del motor a baja potencia. Los equipos deben fijar potencias diferentes.
 ## Contemplar
@@ -30,4 +30,4 @@
 
 [Hoja para el Alumno](https://github.com/jefaturapalaa/olimpiadainet2018/blob/master/WeDo/Hoja_del_alumno_-_Vuelta_al_mundo.pdf)
 
-[Prox](WeDo06.md)
+[Volver](WeDo01.md)
